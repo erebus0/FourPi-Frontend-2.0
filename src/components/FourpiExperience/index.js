@@ -9,7 +9,7 @@ const FourpiExperience = () => {
         <div className="photo-section-child">
           <div className="photo-section-top">
             <div className="photo-section-heading fourpi-experience-heading">
-              we take your money matters seriously.
+              we take your DeFi matters seriously.
             </div>
             <div className="photo-section-subheading">
               so that you don’t have to.
@@ -17,10 +17,10 @@ const FourpiExperience = () => {
           </div>
           <div className="photo-section-bottom">
             <div className="photo-section-description fourpi-experience-description">
-              never miss a due date with reminders to help you pay your bills on
+              {/* never miss a due date with reminders to help you pay your bills on
               time, instant settlements mean you never wait for your payments to
               go through and statement analysis lets you know where your money
-              goes, always.
+              goes, always. */}
             </div>
             <div className="photo-section-button">
               <Button buttonText="Experience the upgrade" />

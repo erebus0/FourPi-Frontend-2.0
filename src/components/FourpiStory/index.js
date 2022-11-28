@@ -1,17 +1,17 @@
 import React from "react";
 import "./fourpiStory.css";
 
-const CredStory = () => {
+const FourpiStory = () => {
   return (
-    <div className="cred-story flex absolute-center">
+    <div className="fourpi-story flex absolute-center">
       <div className="max-width flex story-wrapper">
-        <div className="flex cred-story-heading-wrapper">
-          <div className="cred-story-heading">
-            the story of CRED begins with trust.
+        <div className="flex fourpi-story-heading-wrapper">
+          <div className="fourpi-story-heading">
+            the story of FourPi begins with trust.
           </div>
         </div>
-        <div className="cred-story-detail">
-          <div className="cred-story-para">
+        <div className="fourpi-story-detail">
+          <div className="fourpi-story-para">
             trust as a virtue has consistently played an essential role in every
             great human achievement. and consistently, its importance has been
             overlooked. not just by individuals, but by entire societies. we
@@ -25,8 +25,8 @@ const CredStory = () => {
             went one step ahead: we built it. we know we are on the right track
             because here you are.
           </div>
-          <div className="cred-story-para">
-            if you make it to CRED, congratulations and welcome. we have a lot
+          <div className="fourpi-story-para">
+            if you make it to FourPi, congratulations and welcome. we have a lot
             of things planned for you.
           </div>
         </div>
@@ -35,4 +35,4 @@ const CredStory = () => {
   );
 };
 
-export default CredStory;
+export default FourpiStory;
